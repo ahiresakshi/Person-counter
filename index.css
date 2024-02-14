@@ -1,0 +1,21 @@
+.ho {
+  text-align: center;
+  font-size: 40px;
+}
+h1 {
+  color: blue;
+}
+#count-el {
+  color: brown;
+}
+#increment-btn {
+  background-color: chartreuse;
+  font-size: 20px;
+}
+#save-btn {
+  background-color: chartreuse;
+  font-size: 20px;
+}
+#save-el {
+  color: crimson;
+}
